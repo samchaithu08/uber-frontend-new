@@ -37,7 +37,13 @@ function App() {
         flexDirection: 'column',
         width: '100%'
       }}>
-        <div className="col-md-6 mb-4">
+        <div className="col-md-6 mb-4" style={{
+        alignItems: 'center',
+        justifyContent: 'center',
+        display: 'flex',
+        flexDirection: 'column',
+        width: '100%'
+      }}>
           <div style={{display: 'flex', marginBottom: '2rem'}}>
             <h3 style={{marginRight: '2rem'}}>Get analytics</h3>
             <button
