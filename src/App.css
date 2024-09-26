@@ -1,0 +1,22 @@
+pre {
+  background-color: #f8f9fa;
+  padding: 15px;
+  border-radius: 5px;
+  overflow-y: scroll;
+  white-space: pre-wrap;
+  width: 45rem;
+  height: 30rem;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+button {
+  margin-bottom: 15px;
+}
